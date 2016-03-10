@@ -54,12 +54,12 @@ var proxy_type = 'SOCKS5'; // or 'HTTPS' or 'PROXY'
 
 Socks5 Proxy Policy
 ```
-http://7rfkd6.com5.z0.glb.clouddn.com/socks5proxyw.pac
+http://7xkl1x.com5.z0.glb.clouddn.com/socksWhiteList.pac
 ```
 
 Http Proxy Policy
 ```
-http://7rfkd6.com5.z0.glb.clouddn.com/httpproxyw.pac
+http://7xkl1x.com5.z0.glb.clouddn.com/httpWhiteList.pac
 ```
 
 
@@ -67,12 +67,12 @@ http://7rfkd6.com5.z0.glb.clouddn.com/httpproxyw.pac
 
 Socks5 Proxy Policy
 ```
-http://7rfkd6.com5.z0.glb.clouddn.com/socks5proxyb.pac
+http://7xkl1x.com5.z0.glb.clouddn.com/socksBlackList.pac
 ```
 
 Http Proxy Policy
 ```
-http://7rfkd6.com5.z0.glb.clouddn.com/httpproxyb.pac
+http://7xkl1x.com5.z0.glb.clouddn.com/httpBlackList.pac
 ```
 
 
