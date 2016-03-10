@@ -1,9 +1,5 @@
 # TLDs
-im
-in
-io
-me
-name
+
 
 # Adobe
 typekit.net
@@ -31,9 +27,6 @@ cloudfront.net
 
 # Apple
 apple.com
-cdn-apple.com
-itunes.com
-icloud.com
 mzstatic.com
 
 # Automattic
@@ -41,6 +34,9 @@ wordpress.com
 wordpress.org
 wp.com
 gravatar.com
+
+# Baidu
+tieba.baidu.com
 
 # Booklink
 booklink.me
@@ -114,9 +110,6 @@ google.org
 
 # Microsoft
 azurewebsites.net
-
-# pixiv
-pixiv.net
 
 # Pushbullet
 pushbullet.com
