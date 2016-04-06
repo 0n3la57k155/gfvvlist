@@ -123,7 +123,7 @@ shrpx --client-proxy [-b <HOST,PORT>] [-f <HOST,PORT>]
 
 在 Firefox 或 Chrome 中安裝 [Adblock Plus](http://adblockplus.org/en/) (ABP) 擴展，並在 ABP 的控制面板中加入 Easylist 和 [Chinalist](http://code.google.com/p/adblock-chinalist/)。這樣可以有效的過濾廣告大部分網站和網頁。
 
-`注意`：下載擴展和 ChinaList 的時候可能需要打開全局翻牆的 VPN 。
+`注意`：下載擴展和 ChinaList 的時候可能需要打開全局翻牆的代理設置 。
 
 ##### 屏蔽Flash： FlashControl 或 FlashBlock
 
