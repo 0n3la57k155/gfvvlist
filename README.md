@@ -11,7 +11,7 @@
 
 使用方法
 ---------
-Chrome用戶推薦使用 moew的新作 [Chrome擴展程序Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
+Chrome用戶推薦使用 moew 的新作 [Chrome擴展程序Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 
 
 下載 whitelist.pac 文件後，修改代理服務器的 ip 地址和代理類型。然後將瀏覽器的代理設置中指向 whitelist.pac。
