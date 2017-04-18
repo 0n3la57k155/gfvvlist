@@ -2,11 +2,12 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "share.dmhy.org": 1, 
   "cdninstagram.com": 1, 
   "gimpshop.com": 1, 
   "amazonaws.com": 1, 
   "atlassian.com": 1, 
-  "yt3.ggpht.com": 1,
+  "ggpht.com": 1,
   "directcreative.com": 1, 
   "speedpluss.org": 1, 
   "mingpaovan.com": 1, 
