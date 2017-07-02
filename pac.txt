@@ -2,6 +2,12 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "caribbeancom.com": 1,
+  "cloudfront.net": 1,
+  "thestandnews.com": 1,
+  "theinitium.com": 1,
+  "tumblr.com": 1,
+  "t.me": 1,
   "aol.com": 1,
   "aolcdn.com": 1,
   "atwola.com": 1,
@@ -950,6 +956,7 @@ var domains = {
   "asiaharvest.org": 1, 
   "lidecheng.com": 1, 
   "t.co": 1, 
+  "goo.gl": 1, 
   "ift.tt": 1,
   "twstar.net": 1, 
   "epochtimes.com": 1, 
