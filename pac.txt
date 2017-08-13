@@ -4,11 +4,19 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "||protonmail.ch", 
+  "||protonmail.com", 
+  "||unsplash.com", 
+  "||8686c.com", 
+  "||steamcommunity.com", 
+  "||steampowered.com", 
+  "||evernote.com", 
+  "||amazonaws.com", 
   "||aolcdn.com", 
   "||sumome.com", 
   "||unwire.hk",
-  "heyzo.com",
-  "carribeancom.com",
+  "||heyzo.com",
+  "||carribeancom.com",
   "||2dbook.com",
   "||4tern.com",
   "|http://85.17.73.31/",
