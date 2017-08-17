@@ -4,6 +4,7 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  ".v2ex.com", 
   "||protonmail.ch", 
   "||protonmail.com", 
   "||unsplash.com", 
@@ -2445,11 +2446,7 @@ var rules = [
   "|http://softwaredownload.gitbooks.io",
   ".github.com",
   "|https://gist.github.com",
-  "http://cthlo.github.io/hktv",
-  "||haoel.github.io",
-  "||sodatea.github.io",
-  "wsgzao.github.io",
-  "|https://wsgzao.github.io",
+  "||github.io",
   ".gizlen.net",
   "||gizlen.net",
   ".gjczz.com",
