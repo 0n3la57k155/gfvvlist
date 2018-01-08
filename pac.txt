@@ -2,7 +2,10 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "telesco.pe": 1, 
   "4shared.com": 1, 
+  "mega.nz": 1, 
+  "dtiserv2.com": 1, 
   "galstars.net": 1, 
   "gloryhole.com": 1, 
   "bitcointalk.org": 1, 
