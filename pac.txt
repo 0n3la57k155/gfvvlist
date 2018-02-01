@@ -2,7 +2,10 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "telegra.ph": 1, 
   "gist.github.com": 1, 
+  "producthunt.com": 1,
+  "intercomcdn.com": 1,
   "mojim.com": 1, 
   "telesco.pe": 1, 
   "4shared.com": 1, 
