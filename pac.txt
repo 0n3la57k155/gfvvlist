@@ -2,6 +2,11 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "puss148.com": 1, 
+  "avgle.com": 1, 
+  "hexieshe.com": 1, 
+  "cdn.akamai.steamstatic.com": 1, 
+  "caribbeancompr.com": 1, 
   "telegra.ph": 1, 
   "gist.github.com": 1, 
   "producthunt.com": 1,
@@ -2373,6 +2378,7 @@ var domains = {
   "nalandawest.org": 1, 
   "manchukuo.net": 1, 
   "nyaa.eu": 1, 
+  "pantsu.cat": 1, 
   "newyorktimes.com": 1, 
   "cdp1989.org": 1, 
   "onapp.com": 1, 
